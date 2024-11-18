@@ -27,8 +27,8 @@ This repository contains the implementation and results of a study focused on es
 
 ## Getting Started  
 ### Prerequisites  
-- Python 3.x  
-- TensorFlow or PyTorch  
+- Python 3.10  
+- PyTorch  
 - Scikit-learn  
 
 ### Installation  
