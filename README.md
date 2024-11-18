@@ -1,4 +1,3 @@
-# DeepPRS-BreastCancer
 # DeepPRS-BreastCancer  
 This repository contains the implementation and results of a study focused on estimating polygenic risk scores (PRS) for breast cancer using computational models. A deep neural network (DNN) demonstrated superior performance compared to traditional statistical and machine learning methods.  
 
